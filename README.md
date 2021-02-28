@@ -1,3 +1,10 @@
+sreenshot 
+
+![screencapture-file-Users-nickslaptop-Desktop-Horizon-refactor-Develop-index-html-2021-02-28-12_05_19](https://user-images.githubusercontent.com/67339036/109426772-506c8080-79bd-11eb-8272-8a0af1e4a18b.png)
+
+
+
+
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
